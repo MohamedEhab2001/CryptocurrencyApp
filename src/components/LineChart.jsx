@@ -31,11 +31,6 @@ const LineChart = ({ coinHistory, currentPrice, coinName }) => {
       },
     ],
   };
-  const option = {
-    scales: {
-      yAxes: [],
-    },
-  };
 
   return (
     <>
