@@ -3,7 +3,6 @@ import {
   Navbar,
   Homepage,
   News,
-  Exchanges,
   Cryptocurrencies,
   CryptoDetails,
 } from "./components";
